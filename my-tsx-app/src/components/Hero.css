@@ -1,0 +1,21 @@
+.hero {
+  /* background: url('/hero-background.png') no-repeat center center/cover; */
+  color: white;
+  padding: 4rem 1rem;
+  text-align: center;
+}
+
+.hero h2 {
+  font-size: 2.5rem;
+}
+
+.hero p {
+  font-size: 1.25rem;
+}
+
+.hero button {
+  padding: 0.5rem 1rem;
+  margin-top: 1rem;
+  font-size: 1rem;
+  cursor: pointer;
+}
